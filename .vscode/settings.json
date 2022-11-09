@@ -1,5 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
-        "/workspaces/rust-book-projects/projects/hello_cargo/Cargo.toml"
+        "/workspaces/rust-book-projects/projects/hello_cargo/Cargo.toml",
+        "/workspaces/rust-book-projects/projects/guessing_game/Cargo.toml"
     ]
 }
