@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "/workspaces/rust-book-projects/projects/hello_cargo/Cargo.toml"
+    ]
+}
